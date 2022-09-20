@@ -9,7 +9,7 @@ A summer long literature review of the thermodynamics, kinetics, surface effects
 * **Seminar: Shape Memory Effect in Nitinol (ongoing)**  
 A literature survey on the phase transformations and thermomechanical properties of Ni-Ti Shape memory alloys. Midterm Report: 
 * **Zn-S-O Predominance Diagram**  
-Plotting the Zn-S-O predominance diagram for the process of roasting of sphalerite in the extraction of Zn. Code: Report: 
+Plotting the Zn-S-O predominance diagram (using matplotlib library) for the process of roasting of sphalerite in the extraction of Zn. Code: Report: 
 
 
 * **Machine Design Analysis**  
