@@ -1,7 +1,7 @@
 # My Projects
 ## Research Projects
 * **Chiral Nanomaterials (ongoing)**  
-The aim of this project is to analyse, design, simulate and synthesise chiral nanoparticles for circular polarised light detection. The current task is exploring the seed-mediated sythesis pathway for chiral gold nanoparticles. Summary of literature review is included in 
+The aim of this project is to analyse, design, simulate and synthesise chiral nanoparticles for circular polarised light detection. The current task is exploring the seed-mediated sythesis pathway for chiral gold nanoparticles. Summary of literature review is included [here]{https://github.com/DaniG13/my-projects/blob/main/Chiral%20Nanomaterials_Literature.pdf}
 ## Other Projects
 * **Summer of Science: Nanomaterials**  
 A summer long literature review of the thermodynamics, kinetics, surface effects and quantum effects at the nanoscale. Also includes spectroscopic characterisation techniques and a study on the applications of graphene. [Final Report](https://github.com/DaniG13/my-projects/blob/main/Nanomaterials_Report.pdf)
