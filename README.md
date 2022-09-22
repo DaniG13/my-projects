@@ -13,7 +13,7 @@ Plotting the Zn-S-O predominance diagram (using matplotlib library) for the proc
 
 
 * **Machine Design Analysis**  
-Selected an everyday object, created CAD model in Solidworks, static structural analysis in Ansys and performed a Failure Modes and Effects Analysis. [Source Files](https://drive.google.com/file/d/1iR7r3oQumvfnMPtb5PDDQHTnHB47RQwm/view?usp=sharing) [Report](https://github.com/DaniG13/my-projects/blob/main/Design%20Analysis_Report.pdf)
+Selected an everyday object, created CAD model in Solidworks, static structural analysis in Ansys and performed a Failure Modes and Effects Analysis. [CADs and simulations](https://drive.google.com/file/d/1iR7r3oQumvfnMPtb5PDDQHTnHB47RQwm/view?usp=sharing) [Report](https://github.com/DaniG13/my-projects/blob/main/Design%20Analysis_Report.pdf)
 
 * **Transient Heat Transfer**  
 Coded a FDM simulation of the convectional cooling of a steel rod in Matlab with appropriate boundary conditions [Code](https://github.com/DaniG13/my-projects/blob/main/Transient%20Heat%20Transfer.m)
