@@ -8,7 +8,7 @@ A summer long literature review of the thermodynamics, kinetics, surface effects
 ## Course Projects
 * **Seminar: Shape Memory Alloys and Applications in Wing Morphing**  
 A literature survey on the phase transformations and thermomechanical properties of Ni-Ti Shape memory alloys. Qualitative case studies of select research of applications of SMAs in wing morphing. [Report](https://github.com/DaniG13/my-projects/blob/main/Seminar_Final_%20Report.pdf) [Presenation](https://github.com/DaniG13/my-projects/blob/main/SMA%20Seminar%20Presentation.pptx)
-* **Isostrain and Isostress Analysis of PLA** *
+* **Isostrain and Isostress Analysis of PLA** 
 Mechanical testing of PLA in isostress, isostrain and intermediate orientation at various temperatures. Used results to generate an approximate anisotropic failure model (using Hill Yield Criterion) in Ansys Mechanical [Presentation](https://github.com/DaniG13/my-projects/blob/main/PLA_Presentation.pptx)
 
 * **Hydrogen Storage in Spherical Media** *
